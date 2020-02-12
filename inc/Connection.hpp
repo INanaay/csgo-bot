@@ -10,7 +10,7 @@
 #include <memory>
 #include <boost/asio.hpp>
 #include "Reply.hpp"
-#include "request.hpp"
+#include "Request.hpp"
 #include "request_handler.hpp"
 #include "request_parser.hpp"
 #include <boost/enable_shared_from_this.hpp>
